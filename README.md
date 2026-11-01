@@ -1,6 +1,6 @@
 # Carnot in Motion: A Time-Dependent Simulation with MATLAB
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23850214.svg)]([https://doi.org/TU-DOI](https://doi.org/10.5281/zenodo.23850214))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23850214.svg)](https://doi.org/10.5281/zenodo.23850214)
 [![View Carnot in Motion: A Time-Dependent Simulation with MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/185124-carnot-in-motion-a-time-dependent-simulation-with-matlab)
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=luftmann-tec/Carnot)
 
